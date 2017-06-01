@@ -1,10 +1,10 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Script solves quadratic equation and has 4 tests
 
 # How to Use
 
-[TODO]
+Import module quadratic_equation in your script and use function get_roots()
 
 # How to Launch Tests
 
